@@ -15,4 +15,3 @@ I found my love of data from studying Mathematics + Economics at Boston College.
   - **Data Analysis and Visualization:** Pandas, NumPy, Matplotlib, Seaborn, Plotly, ggplot2, dplyr
   - **Machine Learning and Neural Networks:** Scikit-learn, TensorFlow, Keras, PyTorch
   - **Database Management:** MySQL, PostgreSQL
-  - **Tools and Technologies:** Git, Jupyter Notebooks, Google Collab
