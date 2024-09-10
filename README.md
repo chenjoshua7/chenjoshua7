@@ -1,9 +1,10 @@
 # Hello 👋, I'm Josh!
 
-Hi! I'm Josh, a Data Scientist & Machine Learning Engineer with expertise in Computer Vision, and Deep Learning. My other areas of interest include Statistical Inference, Recommendation Systems, and Natural Language Processing. Beyond ML, I enjoy: my_python_expertise.extend(new_projects) and playing around with math problems. Check out more about me and my projects at https://chenjoshua7.github.io.
+Hi! I'm Josh, a Data Scientist and Machine Learning Engineer. I am passionate about using data in innovative and creative ways to help solve problems - whether its building ML products or deriving insights. I recently graduated with my M.Sc. in Data Science Methodology where I focused on Machine/Deep Learning, Natural Language Processing, and Computer Vision. I am currently looking for roles in Data Science, Analytics, or Machine Learning.
 
-I found my love of data from studying Mathematics + Economics at Boston College. As I begin my final term at Barcelona School of Economics, I'm taking a Reinforcement Learning course, interning with the World Bank, and writing my Master's Thesis on CNNs versus Vision Transformers. This challenging yet rewarding chapter of my life is nearing its end, and I'm excited to return to the States to start my career in Data Science and Machine Learning. I am currently seeking full-time jobs in Data Science/ML, hit me up!
+Please come again soon! I am always working on new projects to pick up new skills and new technologies.
 
+High School Volleyball Coach, Chess Fanatic, Lakers Fan, Origami Enthusiast, Great Violinist, Poor Guitarist.
 ## About Me
 
 - 🎓 **Education:**
